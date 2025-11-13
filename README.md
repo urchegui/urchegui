@@ -52,10 +52,10 @@ Finishing my Software Engineering degree at **Universidad Politécnica de Madrid
 - AI-powered business process automation
 
 Some featured projects:
-- **Codex Sessions**: DJ platform with +20K monthly users ([Instagram](https://instagram.com/codexsessions) • [Web](https://codexsessions.com))
-- **Mediquea**: Medical education resource with +100K monthly users ([Instagram](https://instagram.com/mediquea) • [Web](https://mediquea.com))
-- **ISLAB Studio**: Full frontend/backend development for architecture studio ([Web](https://islabstudio.com))
-- **E-commerce**: Eme Studios, Scuffers (1900% growth)
+- DJ platform with +20K monthly users
+- Medical education resource with +100K monthly users
+- Full frontend/backend development for architecture studio
+- E-commerce (1900% growth)
 
 ## 🧠 What Drives Me
 
