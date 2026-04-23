@@ -1,8 +1,10 @@
 # Hey! 👋 I'm Dani
 
-Software Engineer and fullstack developer with 5+ years building stuff on the internet. Currently working at **Teledyne FLIR** doing frontend R&D (embedded systems, thermal camera interfaces, that kind of thing) while juggling freelance projects on the side where I do a bit of everything.
+Software Engineer, Co-founder and CTO of **Nebula Labs** — a tech consultancy specialised in intelligent automation and applied AI for business.
 
-Finishing my Software Engineering degree at **Universidad Politécnica de Madrid** while working full-time because, apparently, I enjoy pain 😅
+I design and implement agent architectures and AI orchestration systems, connecting LLMs, automations and data so they work as one cohesive system. I also do freelance engineering for companies that need software built right.
+
+Finishing my Software Engineering degree at **Universidad Politécnica de Madrid**, and currently researching quantum computing applied to financial optimisation. 🧠
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +38,19 @@ Finishing my Software Engineering degree at **Universidad Politécnica de Madrid
 
 ## 💼 What I Do
 
-**At Teledyne FLIR (since 2022)**
+**At Nebula Labs (Co-founder & CTO)**
+- Technical architecture of AI and automation products
+- Design and implementation of AI agent systems and AI pipelines
+- Automation of manual and scattered business processes
+- Tech stack definition and client coordination
+
+**As Freelance Engineer & Consultant**
+- Custom software for startups and SMEs
+- E-commerce platforms with +1900% revenue growth
+- Platforms with +100K monthly users
+- AI-powered business process automation
+
+**At Teledyne FLIR (2022–2025)**
 - Frontend development for resource-constrained embedded systems
 - Building SPAs with React for thermal camera interfaces
 - Code optimization for memory-restricted devices
